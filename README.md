@@ -1,4 +1,4 @@
-# Challenge-14-Lost-In-Space
+# Lost-In-Space
  Challenge-14-Model-View-Controller-(MVC): Tech Blog
 
 ## Your Task
@@ -6,7 +6,7 @@ Writing about tech can be just as important as making it. Developers spend plent
 
 Your challenge this week is to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. You’ll build this site completely from scratch and deploy it to Heroku. Your app will follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
-There is no starter code for this project.
+There is no starter code for this project. I used the Tech News code from Module 14 as starter code in order to set up the initial structure.
 
 ## User Story
 * AS A developer who writes about tech
