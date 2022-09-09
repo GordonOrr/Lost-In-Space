@@ -1,0 +1,6 @@
+ode_modules/
+package-lock.json
+.vscode
+.env
+.DS_Store
+.dev_notes
