@@ -3,53 +3,53 @@ const { User, Post } = require('../models');
 
 const userdata = [
   {
-    username: 'alesmonde0',
-    email: 'nwestnedge0@cbc.ca',
+    username: 'sid.shankar',
+    email: 'sid.shanker@geemail.com',
     password: 'password123'
   },
   {
-    username: 'jwilloughway1',
-    email: 'rmebes1@sogou.com',
+    username: 'allen.helton',
+    email: 'allen.helton@geemail.com',
     password: 'password123'
   },
   {
-    username: 'iboddam2',
-    email: 'cstoneman2@last.fm',
+    username: 'jennifer.fu',
+    email: 'jennifer.fu@geemail.com',
     password: 'password123'
   },
   {
-    username: 'dstanmer3',
-    email: 'ihellier3@goo.ne.jp',
+    username: 'mariia.kovalivska',
+    email: 'mariia.kovalivska@geemail.com',
     password: 'password123'
   },
   {
-    username: 'djiri4',
-    email: 'gmidgley4@weather.com',
+    username: 'henri.ben.amor',
+    email: 'henri.ben.amor@geemail.com',
     password: 'password123'
   },
   {
-    username: 'msprague5',
-    email: 'larnout5@imdb.com',
+    username: 'christian.schuller',
+    email: 'christian.schuller@geemail.com',
     password: 'password123'
   },
   {
-    username: 'mpergens6',
-    email: 'hnapleton6@feedburner.com',
+    username: 'wenqi.glantz',
+    email: 'wendi.glantz@geemail.com',
     password: 'password123'
   },
   {
-    username: 'tpenniell7',
-    email: 'kperigo7@china.com.cn',
+    username: 'martin.heinz',
+    email: 'martin.heinz@geemail.com',
     password: 'password123'
   },
   {
-    username: 'msabbins8',
-    email: 'lmongain8@google.ru',
+    username: 'noam.ephrat',
+    email: 'noam.ephrat@geemail.com',
     password: 'password123'
   },
   {
-    username: 'jmacarthur9',
-    email: 'bsteen9@epa.gov',
+    username: 'aiden.tilgner',
+    email: 'aiden.tilgner@geemail.com',
     password: 'password123'
   }
 ];

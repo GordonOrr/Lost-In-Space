@@ -27,10 +27,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GordonOrr/Challenge-14-Lost-In-Space.git"
+    "url": "git+https://github.com/GordonOrr/Lost-In-Space.git"
   },
   "bugs": {
-    "url": "https://github.com/GordonOrr/Challenge-14-Lost-In-Space/issues"
+    "url": "https://github.com/GordonOrr/Lost-In-Space/issues"
   },
-  "homepage": "https://github.com/GordonOrr/Challenge-14-Lost-In-Space#readme"
+  "homepage": "https://github.com/GordonOrr/Lost-In-Space#readme"
 }
