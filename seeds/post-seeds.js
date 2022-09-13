@@ -8,7 +8,7 @@ const postdata = [
   },
   {
     title: 'Let\'s Stop Talking About Serverless Cold Starts',
-    post_url: 'Whenever we talk about serverless, theres always the one person who brings up cold starts — Every presentation Ive given on serverless, someone has brought up cold starts. They heard about them a few years ago and have latched onto the idea that serverless is a non-starter for them as long as they exist.',
+    post_url: 'Whenever we talk about serverless, theres always the one person who brings up cold starts — Every presentation I\'ve given on serverless, someone has brought up cold starts. They heard about them a few years ago and have latched onto the idea that serverless is a non-starter for them as long as they exist.',
     user_id: 2
   },
   {
@@ -17,8 +17,8 @@ const postdata = [
     user_id: 3
   },
   {
-    title: '6 Principles of Engineering Leadership',
-    post_url: 'What contributes to a developers career growth — The map of programmers career growth has two directions: you can move up the vertical axis and inward or horizontally. Professionals who choose the vertical vector grow to the positions of tech/team leads, engineering managers, and delivery managers.',
+    title: 'Six Principles of Engineering Leadership',
+    post_url: 'What contributes to a developers\' career growth — The map of programmer\'s career growth has two directions: you can move up the vertical axis and inward or horizontally. Professionals who choose the vertical vector grow to the positions of tech/team leads, engineering managers, and delivery managers.',
     user_id: 4
   },
   {
@@ -48,7 +48,7 @@ const postdata = [
   },
   {
     title: 'A Deep Dive Into GitHub Copilot',
-    post_url: 'How GitHub Copilot works under the hood — Welcome to AI Review, where we talk about different Artificial Intelligence products designed to make life easier for developers like you and me. Today were gonna be talking about GitHub Copilot, a product Ive talked about extensively on this blog and one I\'m pretty excited about. Well dive into how it works under the hood, whether you should bother using it, and how it squares up to its competitors.',
+    post_url: 'How GitHub Copilot works under the hood — Welcome to AI Review, where we talk about different Artificial Intelligence products designed to make life easier for developers like you and me. Today were gonna be talking about GitHub Copilot, a product Ive talked about extensively on this blog and one I\'m pretty excited about. We\'ll dive into how it works under the hood, whether you should bother using it, and how it squares up to its competitors.',
     user_id: 10
   }
 ];
