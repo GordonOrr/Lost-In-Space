@@ -10,126 +10,6 @@ body, html {
   color: #333;
 }
 
-/* New Content Below */
-
-.dashboard-post{
-  border: 1px #d3d3d3 solid;
-}
-
-header, .project:not(:last-child) {
-  border-bottom: 1px solid #ccc;
-}
-
-.wrapper{
-  max-width: 1200px;
-}
-
-.logo:link{
-  color: black;
-  text-decoration: none;
-}
-
-.logo:visited{
-  color: black;
-  text-decoration: none;
-}
-
-.logo:hover{
-  color: black;
-  text-decoration: none;
-  opacity: 0.7;
-  transition: 0.5s ease-in-out;
-}
-
-.navbar {
-  display: flex;
-  justify-content: flex-end;
-  position: relative;
-  list-style-type: none;
-  margin: 0;
-  font-size: 1.5em;
-}
-
-.navbar a{
-  text-decoration: none;
-  margin: 0 5px
-}
-
-.navbar a:visited{
-  text-decoration: none;
-  color: inherit;
-}
-
-.navbar a:hover{
-  text-decoration: none;
-  color: inherit;
-}
-
-.post{
-  margin: 20px 0;
-  border: 1px lightgrey solid;
-  text-align: right;
-}
-
-.post-title{
-  background-color: lightgrey;
-  padding: 15px;
-  margin-top: 0;
-  text-align: left;
-}
-
-.post-title a:link{
-  color: #617ab7;
-  text-decoration: none;
-}
-
-.post-title a:visited{
-  color: #617ab7;
-  text-decoration: none;
-}
-
-.post-title a:hover{
-  text-decoration: none;
-  color: #0e506e;
-}
-
-.post-content{
-  padding: 10px !important;
-  text-align: left !important;
-}
-
-.post-button{
-  text-align: right;
-  margin-top: 20px;
-  margin-right: 20px;
-  margin-bottom: 20px;
-}
-
-.post-author{
-  text-align: right;
-  margin-right: 20px;
-  margin-bottom: 20px;
-  font-style: italic;
-}
-
-.post-username{
-  font-weight: bold;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-/* New Content Above */
-
-/*
 a {
   text-decoration: none;
   color: #225ca3;
@@ -137,8 +17,27 @@ a {
   transition: color .1s;
 }
 
+.logo {
+  font-size: 30px;
+  color: black;
+}
+
 a:hover {
   color: #3486eb;
+}
+
+.navbar {
+ display: flex;
+ justify-content: flex-end;
+ position: relative;
+ list-style-type: none;
+ margin: 0;
+ font-size: 1.2em;
+}
+
+.navbar a {
+  text-decoration: none;
+  margin: 0 5px;
 }
 
 button {
@@ -159,6 +58,7 @@ button:hover {
 .post-list {
   margin: 0;
   padding: 0;
+  list-style-type:none;
 }
 
 textarea, input {
@@ -240,8 +140,22 @@ main {
 .post {
   margin-bottom: 2%;
   line-height: 150%;
+  border: 1px #d3d3d3 solid;
+  padding: 10px;
 }
 
+.post-title {
+  padding-bottom: 10px;
+  border-bottom: 1px #d3d3d3 solid;
+}
+
+.post-text {
+  padding-top: 10px;
+}
+
+.post-author {
+  font-style: italic;
+}
 .post .title span {
   font-style: italic;
   font-size: 90%;
@@ -296,5 +210,3 @@ footer {
   padding: 1%;
   font-size: 110%;
 }
-
-*/
