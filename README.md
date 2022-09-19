@@ -51,7 +51,7 @@ There is no starter code for this project. I used the Just Tech News code from M
 ## Mock-Up
 The following animation demonstrates the application functionality:
 
-![Mock-Up Image One](./public/images/mock-up-image-one.gif?raw=true "Mock-Up Image One")
+![Mock-Up Image One](./public/images/14-mvc-homework-demo-01.gif?raw=true "Mock-Up Image One")
 
 ## Getting Started
 Your application’s folder structure must follow the Model-View-Controller paradigm. You’ll need to use the express-handlebars (Links to an external site.) package to use Handlebars.js for your Views, use the MySQL2 (Links to an external site.) and Sequelize (Links to an external site.) packages to connect to a MySQL database for your Models, and create an Express.js API for your Controllers.
@@ -100,7 +100,8 @@ Run the following commands at the root of your project and answer the questions 
 
 * npm start (This runs the application)
 
-## Website Link
+## Website Link (Heroku)
+https://nameless-basin-43470.herokuapp.com/
 
 ## Github Repository
 https://github.com/GordonOrr/Lost-In-Space
@@ -109,8 +110,7 @@ https://github.com/GordonOrr/Lost-In-Space
 
 
 ## Screen Shots of Application
-![Screen Shot One](./public/assets/images/screenshot-one.png?raw=true "Screenshot One")
-![Screen Shot Two](./public/assets/images/screenshot-two.png?raw=true "Screenshot Two")
+![Screen Shot One](./public/images/screenshot-one.png?raw=true "Screenshot One")
 
 ## Contribution
 Made with ❤️ by Gordon Orr
